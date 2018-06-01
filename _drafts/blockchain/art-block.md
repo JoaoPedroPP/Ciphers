@@ -4,6 +4,7 @@ post_title: >
   pasta - v2
 author: João Poloni
 post_excerpt: ""
+categoria: Blockchain
 layout: post
 published: false
 ---
