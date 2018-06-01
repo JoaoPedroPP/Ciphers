@@ -4,7 +4,7 @@ post_title: >
 author: Marcelo Strogenski
 post_excerpt: ""
 layout: post
-published: false
+published: true
 ---
 
 teste de post no bluedev via github
