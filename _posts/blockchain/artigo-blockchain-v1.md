@@ -4,7 +4,6 @@ post_title: >
 author: Marcelo Strogenski
 post_excerpt: ""
 layout: post
-category: Blockchain
 published: false
 ---
 
